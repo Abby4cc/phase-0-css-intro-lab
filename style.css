@@ -1,0 +1,20 @@
+/* Set the background color of the entire page */
+body {
+    background-color: #00b3e6;
+}
+
+div {
+    width: 700px;
+    margin: auto;
+    font-family: "Helvetica Neue", sans-serif;
+    background-color: white;
+    padding: 30px;
+}
+
+/* Style the main header */
+#main-header {
+    font-size: 22px;
+}
+.perspective-questions {
+    font-style: italic;
+}
